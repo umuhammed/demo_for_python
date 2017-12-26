@@ -1,0 +1,6 @@
+--> Greetings
+-- I implemented basic version of Singly linked list, stack and queue as per the instraction
+-- Also implemented simple version of graph and bfs algorithm too. I used quee from step 1
+-- optimized the c function to a running time of o(n) and space coplexity of o(n)
+-- I did it overnight, so, did not test the codes for edge cases
+-- I will say more about my experience in the proposal
